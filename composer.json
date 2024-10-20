@@ -1,0 +1,17 @@
+{
+    "name": "nico/tp5-predis",
+    "autoload": {
+        "psr-4": {
+            "Nico\\Tp5Predis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nico",
+            "email": "nicolas.bucarey@est.fi.uncoma.edu.ar"
+        }
+    ],
+    "require": {
+        "predis/predis": "^2.2"
+    }
+}
